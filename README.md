@@ -2,7 +2,7 @@
 
 ##Examining parks per person in the Bluegrass
 
-What's the amount of park space per person by county in the bluegrass? Perhaps a look into Bangkok Thailand can provide an answer to that question. Take a look at a fairly recent example From NASA's Earth Observatory in 2014. Bangkok's <i> Bang Kachao </i> region, nicknamed a green lung, serving as a lush artery of greenspace at the heart of the city's 8.8 million population: 
+What's the amount of park space per person by county in the bluegrass? Perhaps a look into Bangkok Thailand can provide an answer to that question. Take a look at a fairly recent example From NASA's Earth Observatory in 2014. Bangkok's <i> Bang Kachao </i> region, nicknamed a green lung, serving as a lush artery of greenspace at the heart of the city's 8.8 million residents: 
   
   https://earthobservatory.nasa.gov/images/85382/bang-kachao-bangkoks-green-lung 
   
